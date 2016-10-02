@@ -1,147 +1,328 @@
 #EXTM3U
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR yellow][B].[/B][/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",TV ABERTA
-[COLOR red][B]
-[/B][/COLOR]
-http://                            
-http://
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png¨,[COLOR lawngreen][B]REDE TV[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png¨,[COLOR lawngreen][B]REDE VIDA[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://rtsp.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]TV APARECIDA[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]CANÇAO NOVA[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://cnhls-lh.akamaihd.net:80/i/tvcnmob_1@147036/index_540_av-b.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]SECULO 21[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://257920-lh.akamaihd.net/i/TVSeculo21_hls@145741/master.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]REDE FAMILIA[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://srv9.zoeweb.tv:1935/zw901/zw901_720p/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]CANAL DO BOI[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?IPTVBRASILHD
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]RECORD[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish7/kLive/smil:0_dm4rwkh4_all.smil/32/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]SBT[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]GLOBO SP[/B][/COLOR][COLOR blue][B] ON[/B][/COLOR]
-http://www.mediaptv2.zuneserver.com:8000/live/brasil/er4fgerv44444/471.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]BAND[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/playlist.m3u8?TVHDCABONET
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]RCTV[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://flash1.crossdigital.com.br/491/491/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]TV SUDOESTE[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://108.168.158.146:1935/live/tvsudoeste/livestream.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]SHOPTIME[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]REDE BRASIL[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]TV CULTURA[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]CANAL RURAL[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR yellow][B].[/B][/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",DESENHOS
-[COLOR red][B]
-[/B][/COLOR]                            
-http://                      
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]DISCOVERY KIDS[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://31.204.152.6:8081/live/discoverykids/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]CARTOON NETWORK[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://213.163.65.9:8081/live/cartoonk/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]jack chan[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-rtmp: //208.53.164.194/ctv wmsAuthSign =% AUTH% playpath = Jackie swfUrl = http:? //www.carolineoliveira.com.br/swf/player.swf PAGEURL = http: //www.aovivobrasil.com/tvamigos2 /jackie.php
- 
- 
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR yellow][B].[/B][/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",VARIADOS
-[color red][B]
-[/B][/COLOR]                            
-http://
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]ei maxx[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://ss-bsas.eiplus.com.br/live/smil:Evento3.smil/chunklist_b978000.m3u8?
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]COMBATE[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]  
-http://198.179.31.197/live/3251.high.stream/playlist.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]TV CINE[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]FOX COMEDY[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://83.78.191.43:4520
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]MULTI TV[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]MEGA TV[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]CINE MUNDO[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://83.78.191.43:4511
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]charlie chaplin[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://198.179.31.197/live/2966.high.stream/playlist.m3u8
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR yellow][B].[/B][/COLOR]
-http://
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",MUSICAS
-[COLOR red][B]
-[/B][/COLOR]                            
- 
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]RETRO MUSIC[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]HEART MUSIC[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]MUSICA BRASILEIRA[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8
- 
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]RADIO TV[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR]
-http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://imagizer.imageshack.us/a/img922/2003/rHvSUL.png",[COLOR lawngreen][B]HD MUSIC[/B][/COLOR][COLOR blue][B]  ON[/B][/COLOR
-http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="ПРИНИМАЮ ЗАКАЗЫ:" ,http://vk.com/r.tseberenko
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8
+
+
+#EXTINF:0,5 канал
+#EXTGRP:УКРАИНА
+http://109.86.149.27:4022/udp/238.0.0.6:1234
+#EXTINF:0,Новый канал
+http://109.86.149.27:4022/udp/238.0.0.7:1234
+#EXTINF:0,СТБ
+http://109.86.149.27:4022/udp/238.0.0.8:1234
+#EXTINF:0,Украина
+http://109.86.149.27:4022/udp/238.0.0.9:1234
+#EXTINF:0,НТН
+http://109.86.149.27:4022/udp/238.0.0.10:1234
+#EXTINF:0,К1
+http://109.86.149.27:4022/udp/238.0.0.13:1234
+#EXTINF:0,М1
+http://109.86.149.27:4022/udp/238.0.0.14:1234
+#EXTINF:0,Интер
+http://109.86.149.27:4022/udp/238.0.0.4:1234
+#EXTINF:0,ICTV
+http://109.86.149.27:4022/udp/238.0.0.5:1234
+#EXTINF:0,1+1
+http://109.86.149.27:4022/udp/238.0.0.3:1234
+#EXTINF:0,Первый национальный / ТРК&quot;Эра&quot;
+http://109.86.149.27:4022/udp/238.0.0.19:1234
+#EXTINF:0,Рада
+http://109.86.149.27:4022/udp/238.0.0.22:1234
+#EXTINF:0,Планета
+http://109.86.149.27:4022/udp/238.0.0.76:1234
+#EXTINF:0,Индиго
+http://109.86.149.27:4022/udp/238.0.0.222:1234
+#EXTINF:0,ПлюсПлюс
+http://109.86.149.27:4022/udp/238.0.0.17:1234
+#EXTINF:0,К2
+http://109.86.149.27:4022/udp/238.0.0.23:1234
+#EXTINF:0,Малятко TV
+http://109.86.149.27:4022/udp/238.0.0.165:1234
+#EXTINF:0,УБР
+http://109.86.149.27:4022/udp/238.0.0.26:1234
+#EXTINF:0,ЧП.INFO
+http://109.86.149.27:4022/udp/238.0.0.41:1234
+#EXTINF:0,БТБ
+http://109.86.149.27:4022/udp/238.0.0.204:1234
+#EXTINF:0,Мега
+http://109.86.149.27:4022/udp/238.0.0.34:1234
+#EXTINF:0,Zoom
+http://109.86.149.27:4022/udp/238.0.0.44:1234
+#EXTINF:0,Возрождение
+http://109.86.149.27:4022/udp/238.0.0.226:1234
+#EXTINF:0,Triolan INFO (Днепр)
+http://109.86.149.27:4022/udp/238.0.0.68:1234
+#EXTINF:0,24 (Телеканал новостей 24)
+http://109.86.149.27:4022/udp/238.0.0.28:1234
+#EXTINF:0,НЛО TV
+http://109.86.149.27:4022/udp/238.0.0.223:1234
+#EXTINF:0,BOUTIQUE TV
+http://109.86.149.27:4022/udp/238.0.0.61:1234
+#EXTINF:0,NewsOne
+http://109.86.149.27:4022/udp/238.0.0.27:1234
+#EXTINF:0,QTV
+http://109.86.149.27:4022/udp/238.0.0.33:1234
+#EXTINF:0,Maxxi-TV
+http://109.86.149.27:4022/udp/238.0.0.36:1234
+#EXTINF:0,ИРТ
+http://109.86.149.27:4022/udp/238.0.0.217:1234
+#EXTINF:0,34й канал
+http://109.86.149.27:4022/udp/238.0.0.244:1234
+#EXTINF:0,Эко-ТВ
+http://109.86.149.27:4022/udp/238.0.0.163:1234
+#EXTINF:0,Dobro-tv
+http://109.86.149.27:4022/udp/238.0.0.69:1234
+#EXTINF:0,Еспресо TV
+http://109.86.149.27:4022/udp/238.0.0.30:1234
+#EXTINF:0,ZIK
+http://109.86.149.27:4022/udp/238.0.0.18:1234
+#EXTINF:0,MusicBox UA
+http://109.86.149.27:4022/udp/238.0.0.45:1234
+#EXTINF:0,Бигуди
+http://109.86.149.27:4022/udp/238.0.0.31:1234
+#EXTINF:0,ТЕТ
+http://109.86.149.27:4022/udp/238.0.0.11:1234
+#EXTINF:0,Рабинович ТВ
+http://109.86.149.27:4022/udp/238.0.0.77:1234
+#EXTINF:0,Тонис
+http://109.86.149.27:4022/udp/238.0.0.154:1234
+#EXTINF:0,Униан
+http://109.86.149.27:4022/udp/238.0.0.143:1234
+#EXTINF:0,Гамма
+http://109.86.149.27:4022/udp/238.0.0.40:1234
+#EXTINF:0,Винтаж
+http://109.86.149.27:4022/udp/238.0.0.227:1234
+#EXTINF:0,Shopping TV
+http://109.86.149.27:4022/udp/238.0.0.25:1234
+#EXTINF:0,Эскулап
+http://109.86.149.27:4022/udp/238.0.0.225:1234
+#EXTINF:0,Ukraine Today
+http://109.86.149.27:4022/udp/238.0.0.82:1234
+#EXTINF:0,Enter-фильм
+http://109.86.149.27:4022/udp/238.0.0.21:1234
+#EXTINF:0,Пиксель
+http://109.86.149.27:4022/udp/238.0.0.20:1234
+#EXTINF:0,Киев
+http://109.86.149.27:4022/udp/238.0.0.15:1234
+#EXTINF:0,Культура
+http://109.86.149.27:4022/udp/238.0.0.171:1234
+#EXTINF:0,Надия
+http://109.86.149.27:4022/udp/238.0.0.240:1234
+#EXTINF:0,112 Украина
+http://109.86.149.27:4022/udp/238.0.0.196:1234
+#EXTINF:0,Сонце
+http://109.86.149.27:4022/udp/238.0.0.243:1234
+#EXTINF:0,2+2
+http://109.86.149.27:4022/udp/238.0.0.50:1234
+#EXTINF:0,Первый деловой
+http://109.86.149.27:4022/udp/238.0.0.29:1234
+#EXTINF:0,КРТ
+http://109.86.149.27:4022/udp/238.0.0.162:1234
+#EXTINF:0,Глас
+http://109.86.149.27:4022/udp/238.0.0.24:1234
+#EXTINF:0,Казах ТВ
+http://109.86.149.27:4022/udp/238.0.0.151:1234
+#EXTINF:0,слово господа
+http://109.86.149.27:4022/udp/238.0.0.60:1234
+#EXTINF:0,OTV
+http://109.86.149.27:4022/udp/238.0.0.160:1234
+#EXTINF:0,Ukraina 24
+http://109.86.149.27:4022/udp/238.0.16.28:1234
+#EXTINF:0,Донбасс
+http://109.86.149.27:4022/udp/238.0.0.106:1234
+#EXTINF:0,М2
+http://109.86.149.27:4022/udp/238.0.0.46:1234
+#EXTINF:-1,9 Волна
+#EXTGRP:РОССИЯ
+rtmp://176.9.127.102/live/myStream_1
+#EXTINF:-1,ANI
+http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8
+#EXTINF:-1,FM ТВ (Симферополь)
+rtmp://193.238.110.158:1935/rtmp/neapol-hq
+#EXTINF:-1,Hello TV
+http://live.tvhello.ru/live/Stream1/playlist.m3u8
+#EXTINF:-1,Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Mix
+rtmp://tv-mix.ru/live/Stream1
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1,One.by
+http://rtmp.one.by:1200
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1,WBC/ИнКС
+http://hlstv.kuz.211.ru/239.211.4.11/stream.m3u8
+#EXTINF:-1,Аист (Иркутск)
+http://195.206.41.230:8080/live/mystream/index.m3u8
+#EXTINF:-1,Архангельск
+rtmp://yellow.ether.tv/live/arkhangelsk/broadcast4
+#EXTINF:-1,Архыз 24
+http://arhys24.cdnvideo.ru:1935/arhys24/arhys24.sdp/chunklist.m3u8
+#EXTINF:-1,Белгород
+rtmp://yellow.ether.tv/live/belgorod/broadcast4
+#EXTINF:-1,Биробиджан
+rtmp://yellow.ether.tv/live/birobidjan/broadcast4
+#EXTINF:-1,Благовещенск
+rtmp://yellow.ether.tv/live/blagoveshensk/broadcast4
+http://yellow.ether.tv:1935/live/vladivostok/broadcast37/chunklist.m3u8
+#EXTINF:-1,Волга ТВ (Н.Новгород)
+http://volgatv.srv.imageprom.ru:1935/live/volga/volga.stream/chunklist.m3u8
+#EXTINF:-1,Воронеж
+http://yellow.ether.tv:1935/live/voronezh/broadcast37/chunklist.m3u8
+#EXTINF:-1,Дайвинг ТВ
+http://wse.planeta-online.tv:1935/live/channel_130/chunklist.m3u8
+#EXTINF:-1,Детское ТВ
+http://46.182.25.34:1935/tv/1425/playlist.m3u8
+#EXTINF:-1,Дисней +2
+http://hlstv.kuz.211.ru/239.211.211.24/stream.m3u8
+#EXTINF:-1,Домашний (Сургут)
+rtmp://tvsever.ru/live/dom1
+#EXTINF:-1,Домашний +4
+http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8
+#EXTINF:-1,Интерра ТВ
+rtmp://94.190.64.24/interra/360
+#EXTINF:-1,Калуга
+rtmp://yellow.ether.tv/live/kaluga/broadcast4
+#EXTINF:-1,Камчатка
+http://yellow.ether.tv:1935/live/kamchatka/broadcast37/chunklist.m3u8
+#EXTINF:-1,Карапуз ТВ
+http://46.182.25.34:1935/tv/1370/playlist.m3u8
+#EXTINF:-1,Карусель
+http://hlstv.kuz.211.ru/239.211.211.66/stream.m3u8
+#EXTINF:-1,Кемерово
+rtmp://yellow.ether.tv/live/kemerovo/broadcast4
+#EXTINF:-1,Кострома
+rtmp://yellow.ether.tv/live/kostroma/broadcast4
+#EXTINF:-1,Красная Линия
+http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Краснодар
+rtmp://yellow.ether.tv/live/krasnodar/broadcast4
+#EXTINF:-1,Красноярск
+http://yellow.ether.tv:1935/live/krasnojarsk/broadcast37/chunklist.m3u8
+#EXTINF:-1,Крик ТВ
+rtmp://rictv.cdnvideo.ru:1935/rictv/rictv.sdp
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир +3
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1,Мой город (Кемерово)
+http://hlstv.kuz.211.ru/239.211.4.30/stream.m3u8
+#EXTINF:-1,Москва 24
+http://testlivestream.rfn.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Московский Образовательный
+http://195.208.64.43/hls_tv/tv.m3u8
+#EXTINF:-1,Муз ТВ
+http://hlstv.kuz.211.ru/239.211.211.5/stream.m3u8
+#EXTINF:-1,МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,Мульт
+http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8
+#EXTINF:-1,НВ24
+http://5.158.126.24/hls-live/livepkgr/_definst_/liveevent/nv24_2.m3u8
+#EXTINF:-1,НВК Саха
+http://saha.cdnvideo.ru:1935/saha//sahatv.sdp/playlist.m3u8
+#EXTINF:-1,Народная Дипломатия ТВ
+http://hls.goodgame.ru/hls/33226.m3u8?version=2
+#EXTINF:-1,Новосибирск
+http://yellow.ether.tv:1935/live/novosibirsk/broadcast37/chunklist.m3u8
+#EXTINF:-1,ОТР
+http://hlstv.kuz.211.ru/239.211.211.1/stream.m3u8
+#EXTINF:-1,Общественное ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Осинники ТВ
+http://hlstv.kuz.211.ru/239.211.4.41/stream.m3u8
+#EXTINF:-1,ПИК ТВ
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1,Первый +4
+http://hlstv.kuz.211.ru/239.211.4.1/stream.m3u8
+#EXTINF:-1,Первый/МТВ (Волгоград)
+http://volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1,Перец (Сургут)
+rtmp://tvsever.ru/live/per1
+#EXTINF:-1,Пермь
+rtmp://yellow.ether.tv/live/perm/broadcast4
+#EXTINF:-1,Планета
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Правда тут
+http://pravdatyt.tv/pravdatythls/stream.m3u8
+#EXTINF:-1,Пятница +2
+http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8
+#EXTINF:-1,Пятый канал +4
+http://hlstv.kuz.211.ru/239.211.4.5/stream.m3u8
+#EXTINF:-1,РБК
+#EXTINF:-1,РТБ Ровно
+http://194.44.173.90:8080/stream.flv
+rtmp://217.20.164.181:80/live/rada240p.stream
+#EXTINF:-1,Рен
+http://ren.cdnvideo.ru/ren/_definst_/ren1/playlist.m3u8
+#EXTINF:-1,Рен (Саранск)
+http://hlstv.kuz.211.ru/239.211.4.20/stream.m3u8
+#EXTINF:-1,Рен +4
+http://hlstv.kuz.211.ru/239.211.4.31/stream.m3u8
+#EXTINF:-1,Риа новости
+http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://testlivestream.rfn.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 (Ингушетия)
+rtmp://grey.ether.tv/live/ingushetija/broadcast4
+#EXTINF:-1,Россия 1 (Самара)
+http://tvsamara.ru:8092/
+#EXTINF:-1,Россия 1 +2
+rtmp://hosting.nsktv.ru:1935/live/rossia1
+#EXTINF:-1,Россия 1 +4
+http://hlstv.kuz.211.ru/239.211.4.2/stream.m3u8
+#EXTINF:-1,Россия 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/chunklist_b800000.m3u8
+#EXTINF:-1,Россия 24 (Регион.)
+http://hlstv.kuz.211.ru/239.211.4.3/stream.m3u8
+#EXTINF:-1,Россия К
+http://testlivestream.rfn.ru/live/smil:rk.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия К +4
+http://hlstv.kuz.211.ru/239.211.4.6/stream.m3u8
+#EXTINF:-1,Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Рязань
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8
+#EXTINF:-1,СТС +4
+http://hlstv.kuz.211.ru/239.211.4.9/stream.m3u8
+#EXTINF:-1,СТС Love
+http://hlstv.kuz.211.ru/239.211.211.99/stream.m3u8
+#EXTINF:-1,Самара ГИС
+http://samaragis.ru:9998/iphone.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://stream2.topspb.tv:1935/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1,Саратов
+rtmp://yellow.ether.tv/live/saratov/broadcast4
+#EXTINF:-1,Сахалин
+http://yellow.ether.tv:1935/live/sakhalin/broadcast37/chunklist.m3u8
+#EXTINF:-1,Свердловск
+rtmp://grey.ether.tv:1935/live/sverdlovsk/broadcast36
+#EXTINF:-1,Союз
+http://hlstv.kuz.211.ru/239.211.211.56/stream.m3u8
+#EXTINF:-1,Ставрополь
+http://yellow.ether.tv:1935/live/stavropol/broadcast37/chunklist.m3u8
+#EXTINF:-1,Сургут 1
+rtmp://217.8.90.68/live/stv512
+#EXTINF:-1,ТБН
+http://109.68.190.192:1935/tbn/tbn.stream_hq/chunklist.m3u8
+#EXTINF:-1,ТВ Пенза
+rtmp://tv-penza.ru/live/1
+#EXTINF:-1,ТВ3 +3
+http://hlstv.kuz.211.ru/239.211.211.150/stream.m3u8
+#EXTINF:-1,ТВН (Ногинск)
+http://tvnoginsk.ru:8080/stream.flv
+#EXTINF:-1,ТВЦ (Нижнекамск)
+http://webtv.tatar-inform.ru:1935/live/nk/chunklist.m3u8
+#EXTINF:-1,ТНТ (Курск)
+rtmp://178.249.242.111:1935/live/tv
+#EXTINF:-1,ТТРК "Круг"
+http://iphone-streaming.ustream.tv/uhls/13822645/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,Тверь
+rtmp://grey.ether.tv/live/tver/broadcast4
+#EXTINF:-1,ТелПлюс
+rtmp://91.202.253.190:1935/live1/telplus.tv
